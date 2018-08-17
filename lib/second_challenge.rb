@@ -12,4 +12,3 @@ def second_challenge
   	array.flatten
  end
 end
-end
