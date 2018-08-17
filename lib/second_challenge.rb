@@ -8,8 +8,7 @@ def second_challenge
 
   #code your solution here!
 
-  groceries.values
-  array.flatten
+  groceries.values.flatten
   end
 
 end
